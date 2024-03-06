@@ -7,7 +7,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 
 Programmed a web scraper using Python packages Beautiful Soup (bs4), Requests, and Pandas to scrape Swiggy public page top restaurants in Delhi data and save the data in csv format.
 Efficiently scraped 800 rows of unique and consistent data by Parsing through each restaurants page, to collect information like name, cuisine, rating, number of ratings, and the price for two. The source of data set is Swiggy's official website. Here is the link - https://www.swiggy.com/city/delhi/top-rated-collection
-https://www.kaggle.com/datasets/deevanshisharma/swiggys-top-rated-restaurants-in-delhi?select=rest_page.csv
+
 
 ### Project outline
 
