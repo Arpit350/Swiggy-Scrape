@@ -11,13 +11,13 @@ https://www.kaggle.com/datasets/deevanshisharma/swiggys-top-rated-restaurants-in
 
 ### Project outline
 
-We'll grab a list of names, and urls of top rated restaurants in Delhi on Swiggy, and put them in 'rest_page.csv'.
+- We'll grab a list of names, and urls of top rated restaurants in Delhi on Swiggy, and put them in 'rest_page.csv'.
 
-Then we'll grab information like name, cuisine, location, rating, number of ratings, and price for two for each restaurant and save them in 'rest_delhi.csv'.
+- Then we'll grab information like name, cuisine, location, rating, number of ratings, and price for two for each restaurant and save them in 'rest_delhi.csv'.
 
-The restaurants information will be stored in a csv file with format:
+- The restaurants information will be stored in a csv file with format:
 
-name,cuisine,location,rating,num_of_rating,price_for_two
-Bhukkad's Kitchen,"North Indian, Indian","Tis Hazari, Tis Hazari",5.0,20+ ratings,₹ 199
-SUSHI MACHI,Sushi,"Hauz Khas, Green Park",4.9,20+ ratings,₹ 600
-Namaste!
+```
+name,cuisine,rating,price
+Chills,italian, 5, ₹800
+```
